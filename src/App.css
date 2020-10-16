@@ -1,0 +1,15 @@
+body {
+  background-color: aliceblue;
+}
+
+.panel {
+  background-color: white;
+}
+
+.main {
+  margin: 15px;
+}
+
+.MuiPaper-root {
+  background-color: mintcream !important;
+}
